@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Dashboard" android:id="@+id/itemDashboard"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/itemReservation"
+        android:icon="@drawable/reservasi"
+        android:title="Reservation"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/itemTreatment"
+        android:icon="@drawable/treatment"
+        android:title="Treatment"
+        app:showAsAction="always" />
+
+</menu>

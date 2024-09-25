@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemExit"
+        android:title="Exit" />
+    <item
+        android:id="@+id/itemCheck"
+        android:title="Check About Us" />
+    <item
+        android:id="@+id/itemLokasi"
+        android:title="Location" />
+    <item
+        android:id="@+id/itemCamera"
+        android:title="Camera" />
+
+</menu>
